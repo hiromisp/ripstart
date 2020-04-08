@@ -1,0 +1,21 @@
+*.orig
+# Pycharm
+.idea
+*.iml
+*.swp
+
+# Playground
+playground
+
+# Artifacts
+docs/build
+*.pyc
+nosetests.xml
+nose_unit.xml
+.coverage
+venv*
+wheelhouse*
+cover
+logs
+build
+dist
